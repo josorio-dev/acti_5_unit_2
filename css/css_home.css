@@ -1,0 +1,64 @@
+*{
+    font-family: 'Ubuntu', sans-serif;
+}
+.barra-logo{
+    background-color: #f1ebbb;
+    color: #222831;
+}
+.barra-menu{
+    background-color: #32e0c4;
+    opacity: 0.9;
+    font-size: 18px;
+}
+.barra-menu a{
+    color: #075a4c;
+    opacity: 1;
+}
+.barra-menu a:hover{
+    color: #12aa91;
+}
+.bloque-define-psico{
+    width: 100%;
+}
+.bloque-define-psico>article{
+    width: 70%;
+}
+.bloque-define-psico p{
+    font-size: 20px;
+}
+.bloque-video-psico{
+    background-color: #f1d1d1;
+}
+cite{
+    font-size: 28px;
+    color: #994f4f;
+}
+footer{
+    margin: 0;
+    
+}
+#cita-by{
+    font-size: 22px;
+    color: #bb8181;
+    float: right;
+    padding: 10px 15px;
+}
+#img-opa-newslatter{
+    opacity: 0.8;
+}
+.bloque-suscripcion{
+   background-image: url(../imagenes/imagen-fondo-newslatter.jpg);
+   background-attachment: fixed;
+   background-repeat: no-repeat;
+   background-size: cover;
+
+}
+.info-footer{
+    width: 100%;
+    height: 150px;
+    background-color: #a4fff0;
+}
+
+.info-footer section > div:last-child a:hover{
+    opacity: 0.8;
+}

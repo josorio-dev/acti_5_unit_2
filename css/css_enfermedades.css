@@ -1,0 +1,15 @@
+.define-enfermedades{
+    width: 60%;
+}
+.define-enfermedades > p{
+    font-size: 20px;
+}
+.trastorno-psico1{
+    background-color: #abc2e8;
+}
+.trastorno-psico2{
+    background-color: #d87171;
+}
+.trastorno-psico3{
+    background-color: #f6cd61;
+}
